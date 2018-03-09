@@ -31,17 +31,19 @@
 
  | Left-Aligned | Center Aligned | Right Aligned |
  | :----------- |:--------------:| -----:|
- | Col 3 is     | some word text | §1600 |
- | Col 2 is     | centered | §12 |
- | zebra stripes | are neat | §1 | 
- | test | 測試        |  §3333 |
+ | Col 3 is     | some word text | $1600 |
+ | Col 2 is     | centered | $12 |
+ | zebra stripes | are neat | $1 | 
+ | test | 測試        |  $3333 |
+ 
+ ` 
+ blackchain
+ `
   
- ```ruby
-
-def index
-  puts "hello world"
-end
-```  
+ ```
+ "hello world"
+ iPhone
+ ```  
  
  ![fff](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)
  [ ![fff](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")

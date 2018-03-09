@@ -52,7 +52,7 @@
  
  >He immediately fleaw away. 
  
- ![fff](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)
+ ![dinner](dinner.jpg"美味")
  [ ![fff](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
  [ddd](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 

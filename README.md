@@ -22,13 +22,11 @@
 ***
 [華泰電子](http://www.ose.com.tw/zht)
 
-~123~
+~超連結~
 
-**123**
+**超連結**
 
-*123*
-
-* 123
+*超連結*
 
  | Left-Aligned | Center Aligned | Right Aligned |
  | :----------- |:--------------:| -----:|
